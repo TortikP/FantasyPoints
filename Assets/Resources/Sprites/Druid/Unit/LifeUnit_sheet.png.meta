@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: fde2b5049d1e0e24b9b4c62c9d2ea2fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LifeUnit_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a156452729d4bc4ba3fcd6e6e842703
+      internalID: -161111840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 677
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3316ca3363bc46900251aa8fb2f28
+      internalID: -990116262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 677
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561248d1077be1a49a121558079f8f85
+      internalID: -2033688748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 677
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45118150cc30bde4299f1433c703ae0d
+      internalID: -1116690354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 677
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b9b47d940f4348bb71be125d4a2b4
+      internalID: -434538153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 677
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd4d4f999bcaaa49be1d77b63dcc945
+      internalID: -1131087575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74568aff8cc9fc8498aa58eff3209436
+      internalID: -1425430375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c89e51e5b62e45956c93f1d9208a9
+      internalID: 1154392329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07a810c00bf84468a1028afbc40293
+      internalID: -833929064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4300e8976d354b9cc440a875ef702
+      internalID: 1392931029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07d8677f0258340b82560f765aace3
+      internalID: 519306146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf741f9ad892640bf975bfb868d9ae
+      internalID: -580964437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57018169a934a1d4a940eefde35e9731
+      internalID: -1632369457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 581
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdd1b3cdca2c1d428c517d1981b0deb
+      internalID: -115064633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148320c70838f924ca8393cff829c342
+      internalID: -494794482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 485
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b94ee6af3cb2b34d9e3c5e6d672c51d
+      internalID: 998171069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 485
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17446d7f18500034a97817e7908b0a1c
+      internalID: -782665705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 485
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1b01a921016f24a87498753e28c128
+      internalID: 869791906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800affee4a41e2c468b9d1f361e34084
+      internalID: 1482107652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19586ed6b939c84abca4956d720fc93
+      internalID: -900933022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 389
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec493eb78b27741bc1860f88a89a06
+      internalID: 1337281478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 389
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d352f08e43c5488b08c1efc070827
+      internalID: 1190768223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 389
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3383e17ca58919441bb041d8d73298b5
+      internalID: 960747653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 389
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f41787ef68ab4b8f011a078bebfcf
+      internalID: -1039161779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a11a9954127674eab4caa880585579
+      internalID: 357360275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 293
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fbf85bad6b93440b3fc63fd52c1c6a
+      internalID: 861959146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 293
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14628e4ade429294582b26e0686db941
+      internalID: 979985639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 293
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5f85b055d1d0439c490d47b761532
+      internalID: 378224183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 293
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f988d579aadb4e8fa130fae97f67d
+      internalID: 1399946633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 293
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37753ad8054000d4bb51f0adfb2c05ac
+      internalID: 853075039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd8d6428d053a4087bd114a59e8ce8
+      internalID: -1796443897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d933e17247c96b4ca035986fbf61c91
+      internalID: 372527359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b76d8aa44b060469e519688d14848e
+      internalID: 612154193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b6f9306ea1a44db54e3abbb0b382a
+      internalID: 1102584648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f0db1d17db8840885b1d1e11888b9
+      internalID: 447367765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc61c7ff516d384ab3147c12b603c0d
+      internalID: 514933874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d496ec5240a24d9678fbe938d334a
+      internalID: -427944267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a18559717d68b42b7b408c0228118d
+      internalID: -1139924002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a6944d7e54450488b59c61ef4e4f21
+      internalID: -37459447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 197
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1e88663092754db7f9292ed282328
+      internalID: -1294710770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696222256b818a40a987cc562ed693a
+      internalID: -265123570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511c19856540094881950efdfb16685
+      internalID: -1764199488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 101
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d45c40a4af2c4b855965a0ba9c2f1
+      internalID: 1335774839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 101
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261e674c9314eb4a81dcfc06f377ee0
+      internalID: -1517339565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268372d5f7821164ea4f4c0a48ffe373
+      internalID: 213226535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a3fb5cd8fa6eb40ae099cc243c7215
+      internalID: -2054843849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b082e06f3eba41aa869c36ba364f8
+      internalID: 752890901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080ba82e1c384142bd5f57afab06ade
+      internalID: -1873442120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8937a009a0c09747b0e9ff0ca9f6b28
+      internalID: 482503165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUnit_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 95
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4976c7ccfce564abdf5458f01bb0d5
+      internalID: 1525342232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LifeUnit_sheet_0: -161111840
+      LifeUnit_sheet_1: -990116262
+      LifeUnit_sheet_18: 1482107652
+      LifeUnit_sheet_19: -900933022
+      LifeUnit_sheet_2: -2033688748
+      LifeUnit_sheet_20: 1337281478
+      LifeUnit_sheet_21: 1190768223
+      LifeUnit_sheet_22: 960747653
+      LifeUnit_sheet_23: -1039161779
+      LifeUnit_sheet_24: 357360275
+      LifeUnit_sheet_25: 861959146
+      LifeUnit_sheet_26: 979985639
+      LifeUnit_sheet_27: 378224183
+      LifeUnit_sheet_28: 1399946633
+      LifeUnit_sheet_29: 853075039
+      LifeUnit_sheet_3: -1116690354
+      LifeUnit_sheet_30: -1796443897
+      LifeUnit_sheet_31: 372527359
+      LifeUnit_sheet_32: 612154193
+      LifeUnit_sheet_33: 1102584648
+      LifeUnit_sheet_34: 447367765
+      LifeUnit_sheet_35: 514933874
+      LifeUnit_sheet_36: -427944267
+      LifeUnit_sheet_37: -1139924002
+      LifeUnit_sheet_38: -37459447
+      LifeUnit_sheet_39: -1294710770
+      LifeUnit_sheet_4: -434538153
+      LifeUnit_sheet_40: -265123570
+      LifeUnit_sheet_41: -1764199488
+      LifeUnit_sheet_42: 1335774839
+      LifeUnit_sheet_43: -1517339565
+      LifeUnit_sheet_44: 213226535
+      LifeUnit_sheet_45: -2054843849
+      LifeUnit_sheet_46: 752890901
+      LifeUnit_sheet_47: -1873442120
+      LifeUnit_sheet_48: 482503165
+      LifeUnit_sheet_49: 1525342232
+      LifeUnit_sheet_5: -1131087575
+      move1: -1425430375
+      move10: 998171069
+      move11: -782665705
+      move12: 869791906
+      move2: 1154392329
+      move3: -833929064
+      move4: 1392931029
+      move5: 519306146
+      move6: -580964437
+      move7: -1632369457
+      move8: -115064633
+      move9: -494794482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

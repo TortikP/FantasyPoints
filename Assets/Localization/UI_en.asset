@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4012927c8fb76d84fbb068b9efe55797, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30896717824
+    m_Localized: Singleplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219342602240
+    m_Localized: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326045696000
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433994498048
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484623941632
+    m_Localized: Begin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555864195072
+    m_Localized: Elementalist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 666895810560
+    m_Localized: Nature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722629722112
+    m_Localized: Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831346081792
+    m_Localized: Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 896739475456
+    m_Localized: Your faction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010761629696
+    m_Localized: Find Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149676978176
+    m_Localized: Create lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1238793355264
+    m_Localized: Join Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344456261632
+    m_Localized: Lobby code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39620466606080
+    m_Localized: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39667585417216
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54610384814080
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54685810982912
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54759060307968
+    m_Localized: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54876467265536
+    m_Localized: Back to menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54954615537664
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55040011567104
+    m_Localized: VIctory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55136849657856
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55332904009728
+    m_Localized: Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55442933186560
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55551515328512
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55590136479744
+    m_Localized: 'To play this game you need to transfer units from your bases to
+      different bases. To choose the amount of units you transfer press on one of
+      your bases and drag away to the side. To transfer units just press on a base
+      you wish to transfer your units to '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56405005860864
+    m_Localized: 'Bases slowy gain units over time. When a unit reaches one of the
+      bases it gain or loses one unit depending on side it belongs to.
+
+      To
+      win you need to capture all of main enemy bases.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56798666457088
+    m_Localized: 'You can use your faction skills in the bottom right side of the
+      screen to gain advantage over the enemy.
+
+      Some of the bases on the field
+      can also have uniqie abilities or passives, that can help you to win. Good
+      luck.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71343166357504
+    m_Localized: Not enough mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83771405008896
+    m_Localized: Host has disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83932696969216
+    m_Localized: Enemy has disconnected
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

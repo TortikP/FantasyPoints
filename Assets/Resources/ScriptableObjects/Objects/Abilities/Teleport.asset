@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc86f85d5bc9f3a48a4f7830dc0be16d, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: 
+  abilityId: 5
+  abilityName: Teleport
+  abilityCost: 25
+  abilityDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:aa4fd73b0092b15438cb71b8c86d4d17
+    m_TableEntryReference:
+      m_KeyId: 2595642310656
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  abilityPrompt:
+    m_TableReference:
+      m_TableCollectionName: GUID:aa4fd73b0092b15438cb71b8c86d4d17
+    m_TableEntryReference:
+      m_KeyId: 3008596705280
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  abilityArea: 0.1
+  hits: 1
+  abilityImage: {fileID: 1470617811, guid: 801dd58ef56c45c4298a0d355902c0e2, type: 3}
+  abilityPref: {fileID: 8452182998530655121, guid: b0ac1afa19b0d9747a5ddc7a120769c9, type: 3}
+  references:
+    version: 2
+    RefIds: []

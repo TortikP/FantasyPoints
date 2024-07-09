@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc86f85d5bc9f3a48a4f7830dc0be16d, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  abilityId: 1
+  abilityName: Fireball
+  abilityCost: 20
+  abilityDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:aa4fd73b0092b15438cb71b8c86d4d17
+    m_TableEntryReference:
+      m_KeyId: 1122002960384
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  abilityPrompt:
+    m_TableReference:
+      m_TableCollectionName: GUID:aa4fd73b0092b15438cb71b8c86d4d17
+    m_TableEntryReference:
+      m_KeyId: 1356544245760
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  abilityArea: 0.5
+  hits: 0
+  abilityImage: {fileID: 1872928984, guid: d8df18f46d1907c478fb6adb49e4f0f4, type: 3}
+  abilityPref: {fileID: 200767621525825014, guid: 2358d824ffa042b4e92f690ef0da3c51, type: 3}
+  references:
+    version: 2
+    RefIds: []

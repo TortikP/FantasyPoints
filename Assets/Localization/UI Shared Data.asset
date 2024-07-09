@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 4012927c8fb76d84fbb068b9efe55797
+  m_Entries:
+  - m_Id: 30896717824
+    m_Key: Menu.singleplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219342602240
+    m_Key: Menu.multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326045696000
+    m_Key: Menu.exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433994498048
+    m_Key: Menu.return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484623941632
+    m_Key: Menu.begin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555864195072
+    m_Key: Faction.elemetalist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 666895810560
+    m_Key: Faction.nature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722629722112
+    m_Key: Faction.chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831346081792
+    m_Key: Menu.stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 896739475456
+    m_Key: Menu.faction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010761629696
+    m_Key: Menu.findGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149676978176
+    m_Key: Menu.createLobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1238793355264
+    m_Key: Menu.joinLobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344456261632
+    m_Key: Menu.lobbyCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39620466606080
+    m_Key: Menu.stopSearch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39667585417216
+    m_Key: UI.loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54610384814080
+    m_Key: GameUI.menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54685810982912
+    m_Key: Game.paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54759060307968
+    m_Key: Game.defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54876467265536
+    m_Key: Game.back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54954615537664
+    m_Key: Game.restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55040011567104
+    m_Key: Game.victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55136849657856
+    m_Key: Game.tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55332904009728
+    m_Key: Game.previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55442933186560
+    m_Key: Game.next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55551515328512
+    m_Key: Game.close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55590136479744
+    m_Key: Turtorial.first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56405005860864
+    m_Key: Turtorial.second
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56798666457088
+    m_Key: Turtorial.third
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71343166357504
+    m_Key: Game.no_mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83771405008896
+    m_Key: Game.host_disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83932696969216
+    m_Key: Game.enemy_disconnected
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6423253849199345688
+  references:
+    version: 2
+    RefIds:
+    - rid: 6423253849199345688
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1718556482516

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc86f85d5bc9f3a48a4f7830dc0be16d, type: 3}
+  m_Name: PlanthGrowth
+  m_EditorClassIdentifier: 
+  abilityId: 2
+  abilityName: Plant growth
+  abilityCost: 15
+  abilityDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:aa4fd73b0092b15438cb71b8c86d4d17
+    m_TableEntryReference:
+      m_KeyId: 1465092833280
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  abilityPrompt:
+    m_TableReference:
+      m_TableCollectionName: GUID:aa4fd73b0092b15438cb71b8c86d4d17
+    m_TableEntryReference:
+      m_KeyId: 1687458054144
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  abilityArea: 0.8
+  hits: 0
+  abilityImage: {fileID: 1546850317, guid: 653c208a8f0fe7540974df204c6608a3, type: 3}
+  abilityPref: {fileID: 7687519043472731344, guid: e653889047cea6a40a4b8504c8437bad, type: 3}
+  references:
+    version: 2
+    RefIds: []

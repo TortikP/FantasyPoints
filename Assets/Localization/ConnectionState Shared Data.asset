@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ConnectionState Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ConnectionState
+  m_TableCollectionNameGuidString: 2d278b22546b2914f94535b269eed9c4
+  m_Entries:
+  - m_Id: 9480601600
+    m_Key: Lobby.creating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694959898624
+    m_Key: Lobby.joining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 819379732480
+    m_Key: State.waiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619724238848
+    m_Key: State.connecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1807490646016
+    m_Key: State.failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1980866396160
+    m_Key: State.no_server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241315897344
+    m_Key: State.loading_level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2389630681088
+    m_Key: State.spawning_level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3018805641216
+    m_Key: State.searching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24910090371072
+    m_Key: State.no_lobby
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6423253849199345697
+  references:
+    version: 2
+    RefIds:
+    - rid: 6423253849199345697
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1718563200001
